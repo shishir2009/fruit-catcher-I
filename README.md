@@ -1,1 +1,1 @@
-# fruit-catcher-I
+# project-template-fruit-catcher-I
